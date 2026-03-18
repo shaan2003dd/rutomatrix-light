@@ -1,6 +1,7 @@
 // adb-controller.js
 // Handles all ADB commands and device interaction
 // Enhanced: JPEG compression, faster screenshots, orientation detection
+// -
 
 const { exec, spawn, execFile } = require('child_process');
 const { promisify } = require('util');
