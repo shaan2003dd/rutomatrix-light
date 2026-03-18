@@ -1,0 +1,93 @@
+{
+  "id": "mmuaqm3fdo1fa",
+  "deviceId": "RZCTA02S9LY",
+  "deviceModel": "SM-M536B",
+  "androidVersion": "Android 12",
+  "startTime": 1773732815057,
+  "endTime": 1773732844635,
+  "duration": 29578,
+  "events": [
+    {
+      "type": "tap",
+      "x": 498,
+      "y": 2171,
+      "timestamp": 2056
+    },
+    {
+      "type": "tap",
+      "x": 710,
+      "y": 1482,
+      "timestamp": 3393
+    },
+    {
+      "type": "swipe",
+      "x1": 95,
+      "y1": 1315,
+      "x2": 1024,
+      "y2": 1235,
+      "duration": 300,
+      "timestamp": 6121
+    },
+    {
+      "type": "swipe",
+      "x1": 149,
+      "y1": 1123,
+      "x2": 713,
+      "y2": 1005,
+      "duration": 300,
+      "timestamp": 7057
+    },
+    {
+      "type": "tap",
+      "x": 50,
+      "y": 133,
+      "timestamp": 7705
+    },
+    {
+      "type": "tap",
+      "x": 585,
+      "y": 1924,
+      "timestamp": 9025
+    },
+    {
+      "type": "swipe",
+      "x1": 127,
+      "y1": 1415,
+      "x2": 1072,
+      "y2": 1235,
+      "duration": 300,
+      "timestamp": 10728
+    },
+    {
+      "type": "tap",
+      "x": 66,
+      "y": 139,
+      "timestamp": 11641
+    },
+    {
+      "type": "tap",
+      "x": 91,
+      "y": 194,
+      "timestamp": 12233
+    },
+    {
+      "type": "tap",
+      "x": 562,
+      "y": 1982,
+      "timestamp": 13833
+    },
+    {
+      "type": "tap",
+      "x": 82,
+      "y": 207,
+      "timestamp": 16345
+    },
+    {
+      "type": "tap",
+      "x": 537,
+      "y": 2334,
+      "timestamp": 22569
+    }
+  ],
+  "createdAt": "2026-03-17T07:34:04.635Z"
+}

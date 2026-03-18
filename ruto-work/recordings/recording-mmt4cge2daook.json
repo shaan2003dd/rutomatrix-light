@@ -1,0 +1,42 @@
+{
+  "id": "mmt4cge2daook",
+  "deviceId": "RZCTA02S9LY",
+  "deviceModel": "SM-M536B",
+  "androidVersion": "Android 12",
+  "startTime": 1773661627594,
+  "endTime": 1773661640186,
+  "duration": 12592,
+  "events": [
+    {
+      "type": "tap",
+      "x": 667,
+      "y": 1762,
+      "timestamp": 1175
+    },
+    {
+      "type": "tap",
+      "x": 550,
+      "y": 2328,
+      "timestamp": 2823
+    },
+    {
+      "type": "tap",
+      "x": 247,
+      "y": 2328,
+      "timestamp": 6368
+    },
+    {
+      "type": "tap",
+      "x": 247,
+      "y": 2328,
+      "timestamp": 7279
+    },
+    {
+      "type": "tap",
+      "x": 546,
+      "y": 2338,
+      "timestamp": 9776
+    }
+  ],
+  "createdAt": "2026-03-16T11:47:20.186Z"
+}
